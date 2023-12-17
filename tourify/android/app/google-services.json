@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "104306170554",
+    "project_id": "final-project-347cb",
+    "storage_bucket": "final-project-347cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104306170554:android:232699ff9c80fdeebcc083",
+        "android_client_info": {
+          "package_name": "com.hongwei.tourify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104306170554-28kmjn06mj69mihd8ups4p6r5594g35l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hongwei.tourify",
+            "certificate_hash": "8214bf4cd78ffb1848c8b377c39633c269f78bfb"
+          }
+        },
+        {
+          "client_id": "104306170554-gnpmodl1f17dri75t5f19boglntmhen4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hongwei.tourify",
+            "certificate_hash": "4ff7b16a625b370cb29b974a513fce3bd08549bd"
+          }
+        },
+        {
+          "client_id": "104306170554-caphc5fn46j9b8f81bh64mrjbgi78kn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC9sTN1yzxVfPnRvPCPIUUcjKSbqM5fW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104306170554-caphc5fn46j9b8f81bh64mrjbgi78kn4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "104306170554-i2no7j7qog57lrrekbp13dtgil71sbp4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mrblab.travelhourapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
