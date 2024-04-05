@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>104306170554-i2no7j7qog57lrrekbp13dtgil71sbp4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.104306170554-i2no7j7qog57lrrekbp13dtgil71sbp4</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>104306170554-28kmjn06mj69mihd8ups4p6r5594g35l.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCtfNAqDnnP8EtC4dt9BAVZvdWAM_dyOnU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>104306170554</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mrblab.travelhourapp</string>
+	<key>PROJECT_ID</key>
+	<string>final-project-347cb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>final-project-347cb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:104306170554:ios:b0b68ea92358b298bcc083</string>
+</dict>
+</plist>
