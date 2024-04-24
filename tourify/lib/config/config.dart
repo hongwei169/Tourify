@@ -8,7 +8,7 @@ class Config {
   final String countryName = 'World';
   final String splashIcon = 'assets/images/splash.png';
   final String supportEmail = 'phanghongwei@gmail.com';
-  final String privacyPolicyUrl = 'https://www.mrb-lab.com/privacy-policy-of-travel-hour';
+  final String privacyPolicyUrl = '';
   final String iOSAppId = '000000';
 
   
