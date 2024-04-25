@@ -1,5 +1,7 @@
 # Tourify - Explore with Ease
 
+![Tourify Logo](tourify\assets\images\icon.png)
+
 ## Project Overview
 Tourify is a mobile tourism application developed using Flutter and Firebase, designed to enhance the travel experience by providing comprehensive, real-time, and localized travel information to tourists visiting a specific country. This app aims to simplify navigation, offer up-to-date local information, and foster user engagement through interactive features like reviews and ratings.
 
