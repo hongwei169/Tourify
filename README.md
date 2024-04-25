@@ -1,6 +1,7 @@
 # Tourify - Explore with Ease
 
-![Tourify Logo](tourify\assets\images\icon.png)
+<img src="https://github.com/hongwei169/Tourify/assets/97239900/db2cbc44-619c-4bb3-8fcb-1d9f6ce0cd8a" width="100" height="100">
+
 
 ## Project Overview
 Tourify is a mobile tourism application developed using Flutter and Firebase, designed to enhance the travel experience by providing comprehensive, real-time, and localized travel information to tourists visiting a specific country. This app aims to simplify navigation, offer up-to-date local information, and foster user engagement through interactive features like reviews and ratings.
@@ -31,4 +32,9 @@ These instructions will get you a copy of the project up and running on your loc
    flutter run
 ## Usage
 After installation, you can run the app on an emulator or physical device. Navigate through the app using the bottom navigation bar to explore different features like Maps, Attractions, Hotels, and Settings.
+
+## Acknowledgements
+- Flutter community
+- Firebase team
+- Google Maps Platform
    
